@@ -1,0 +1,22 @@
+{
+    "name": "vscodetheme",
+    "displayName": "Caribean Ocean",
+    "description": "My first theme in vscode",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "publisher": "CaribeanNight",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Caribean night",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Caribean night-color-theme.json"
+            }
+        ]
+    }
+}
