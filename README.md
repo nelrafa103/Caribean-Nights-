@@ -1,5 +1,10 @@
 # Caribean Nights
-## 
-This is my first theme!
+
+
+Caribean Nights is a theme with bluish tones and yellow details
+
+### Author
+
+- Nelrafa103
 
 **Enjoy!**
