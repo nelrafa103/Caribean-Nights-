@@ -1,6 +1,6 @@
 {
     "name": "vscodetheme",
-
+    "icon": "https://github.com/nelrafa103/Caribean-Nights-/blob/main/images/icons/icon.jpg?raw=true",
     "displayName": "Caribean Ocean",
     "description": "My first theme in vscode",
     "version": "0.0.1",
